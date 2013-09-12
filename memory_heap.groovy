@@ -5,7 +5,7 @@
    Heap Used, Non Heap,Max Heap,Heap Memory Usage
    and prints those in a title:value format.
 
-   Input : hostname and port of the jvm
+   Input : hostname,port, username,password
 */
 
 #!/usr/bin/env groovy
